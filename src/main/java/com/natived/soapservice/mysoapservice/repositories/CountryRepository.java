@@ -1,7 +1,8 @@
 package com.natived.soapservice.mysoapservice.repositories;
 
-import io.spring.guides.gs_producing_web_service.Country;
-import io.spring.guides.gs_producing_web_service.Currency;
+
+import com.natived.ws.gen.soapservice.Country;
+import com.natived.ws.gen.soapservice.Currency;
 import org.springframework.stereotype.Component;
 import org.springframework.util.Assert;
 
